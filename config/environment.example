@@ -1,0 +1,4 @@
+PORT=8080
+DISPLAY=:99
+PROFILE_DIR=/home/user/chrome-profile
+DOWNLOAD_DIR=/home/user/Downloads
